@@ -12,6 +12,6 @@ class itskodma {
 }
 }
 
-const me = new smailiukas();
+const me = new itskodma();
 me.totally_not_a_complicated_function_name();
 ```
